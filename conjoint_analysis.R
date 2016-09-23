@@ -1,3 +1,15 @@
+#' ---
+#' title: "Conjoint Analysis"
+#' author: 
+#'  name: "Amanda Dobbyn"
+#'  email: aedobbyn@uchicago.edu
+#' output:
+#'  html_document:
+#'    fig_caption: yes
+#'    keep_md: true
+#' ---
+
+#+
 # sample conjoint analysis setup
 # based on Aizaki & Nishimura (2008)
 
